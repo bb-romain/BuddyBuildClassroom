@@ -49,7 +49,6 @@ class ViewController: UIViewController {
     }
 
     @IBAction func actionD(_ sender: AnyObject) {
-        [0][1]
         handleButton(500)
     }
 
